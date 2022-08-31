@@ -15,9 +15,17 @@ main.py is for python file and main_for_java.py for java file.To run this projec
 For java file:
 
 	python3 main_for_java.py <java File name>
+	
+example: 
+
+	python3 main_for_java.py ft.java
 
 For python file:
 
 	python3 main.py <pyhton_file_name>
+	
+example:
+
+	python3 main.py test.py
 
 
