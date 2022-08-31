@@ -1,5 +1,5 @@
 # Halstead-Metric-calculation
-Here, i calculate halstead metric for two language.
+Here, i calculate halstead metric for two languages.
 
 <ul>
 	<li>Python</li>
