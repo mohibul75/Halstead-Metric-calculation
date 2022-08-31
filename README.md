@@ -6,7 +6,7 @@ Here, i calculate halstead metric for two language.
 	<li>Java</li>
 </ul>
 
-main.py is for python file and main_for_java.py for java file.TO run the code
+main.py is for python file and main_for_java.py for java file.To run this project
 
 	git clone https://github.com/purbo75/Halstead-Metric-calculation.git
 
